@@ -6,6 +6,14 @@
 
 **核心计算全部在浏览器内完成。GitHub Pages 只托管静态资源，不依赖后端、GPU 或外部 AI API。**
 
+## 在线演示
+
+- 应用地址：https://fuan20070330-sudo.github.io/shujing-insight/
+- 公开仓库：https://github.com/fuan20070330-sudo/shujing-insight
+- Pages 工作流：https://github.com/fuan20070330-sudo/shujing-insight/actions/workflows/pages.yml
+
+线上版本已通过 Actions 的单元测试、生产构建与 Pages 部署；浏览器冒烟测试确认示例数据、8 条洞察和证据抽屉正常加载。
+
 ## 1. 作品亮点
 
 - **证据优先**：每条洞察同时展示筛选条件、有效样本量、方法、效应量、p 值、证据表和解释边界。
